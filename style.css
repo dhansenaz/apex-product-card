@@ -50,3 +50,15 @@ body {
 .imageBox:hover .textBox {
   left: 0%;
 }
+
+.stars-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top:-25px;
+    padding:10px;
+  }
+  .stars {
+    color: yellow;
+  }
